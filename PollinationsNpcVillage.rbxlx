@@ -647,10 +647,15 @@ return Prompt
         <bool name="Anchored">true</bool>
         <token name="BottomSurface">0</token>
         <Color3uint8 name="Color3uint8">14273702</Color3uint8>
+        <Vector3 name="Orientation">
+          <X>0</X>
+          <Y>180</Y>
+          <Z>0</Z>
+        </Vector3>
         <Vector3 name="Position">
           <X>0</X>
           <Y>0.5</Y>
-          <Z>40</Z>
+          <Z>6</Z>
         </Vector3>
         <Vector3 name="size">
           <X>12</X>

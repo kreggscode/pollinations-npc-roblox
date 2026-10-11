@@ -35,6 +35,11 @@
                 "$className": "SpawnLocation",
                 "$properties": {
                     "Anchored": true,
+                    "Orientation": [
+                        0,
+                        180,
+                        0
+                    ],
                     "Size": [
                         12,
                         1,
@@ -43,7 +48,7 @@
                     "Position": [
                         0,
                         0.5,
-                        40
+                        6
                     ],
                     "Color": [
                         0.85,
